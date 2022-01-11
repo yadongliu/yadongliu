@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @yadongliu
-- 👀 I’m interested in software, education, and world languages.
-- 🌱 I’m currently learning French.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, best way to reach me is twitter @yadongliu
 
 <!---
 yadongliu/yadongliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
